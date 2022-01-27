@@ -1,0 +1,4 @@
+library( montyhall )#
+create_game()
+help( "create_game" )
+help( "select_door" )
